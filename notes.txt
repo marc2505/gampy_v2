@@ -1,0 +1,4 @@
+Commandes importantes : 
+=======================
+// Pour relancer une migration
+php artisan migrate:refresh --path=database/migrations/2023_03_29_210809_create_categories_table.php
